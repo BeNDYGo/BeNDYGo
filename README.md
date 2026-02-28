@@ -6,7 +6,7 @@
 - [TwitchExtension](https://github.com/BeNDYGo/TwitchExtension) - **расширение** добавляет 2 кнопки на *Twitch* которые открывают статистику открытого канала на *Twitch Tracker* и *Sullygnome*
 
 ### Сайты
-- [Translate-Website](https://github.com/BeNDYGo/Translate-Website) - **сайт-переводчик**. Перевод предоставляется с сайта *wooordhunt* и *googletranslate*
+- [Translate-Website](https://bendygo.github.io/Translate-Website/) - **сайт-переводчик**. Перевод предоставляется с сайта *wooordhunt* и *googletranslate*
 
 
 <!--
