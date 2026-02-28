@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+### Расширения 
+- [Kinopoisk-To-Sspoisk](https://github.com/BeNDYGo/Kinopoisk-To-Sspoisk) - **расширение** для браузера которое позволяет смотреть фильмы на кипоиске бесплатно
+- [GENIUS](https://github.com/BeNDYGo/GENIUS) - **расширение** добавляет кнопку "G" на yande.music и soundcloud которая отрывает текст песни с сайта *GENIUS*
+- [TwitchExtension](https://github.com/BeNDYGo/TwitchExtension) - **расширение** добавляет 2 кнопки на *Twitch* которые открывают статистику открытого канала на *Twitch Tracker* и *Sullygnome*
+
+### Сайты
+- [Translate-Website](https://github.com/BeNDYGo/Translate-Website) - **сайт-переводчик**. Перевод предоставляется с сайта *wooordhunt* и *googletranslate*
+
+
 <!--
 **BeNDYGo/BeNDYGo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
