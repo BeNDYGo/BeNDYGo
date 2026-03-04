@@ -14,7 +14,11 @@
 - [GENIUS](https://github.com/BeNDYGo/GENIUS) - **расширение** добавляет кнопку "G" на yande.music и soundcloud которая отрывает текст песни с сайта *GENIUS*
 - [TwitchExtension](https://github.com/BeNDYGo/TwitchExtension) - **расширение** добавляет 2 кнопки на *Twitch* которые открывают статистику открытого канала на *Twitch Tracker* и *Sullygnome*
 
+### Downloads
 
+
+- Kinopoisk-To-Sspoisk: ![Downloads](https://img.shields.io/github/downloads/BeNDYGo/Kinopoisk-To-Sspoisk/total.svg)
+- GENIUS: ![Downloads](https://img.shields.io/github/downloads/BeNDYGo/GENIUS/total.svg)
 
 
 <!--
