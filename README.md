@@ -11,7 +11,7 @@
 
 ### Extensions 
 - [Kinopoisk-To-Sspoisk](https://github.com/BeNDYGo/Kinopoisk-To-Sspoisk) - **расширение** для браузера которое позволяет смотреть фильмы на кипоиске бесплатно
-- [GENIUS](https://github.com/BeNDYGo/GENIUS) - **расширение** добавляет кнопку "G" на yande.music и soundcloud которая отрывает текст песни с сайта *GENIUS*
+- [GENIUS](https://github.com/BeNDYGo/GENIUS) - **расширение** добавляет кнопку "G" на yandex.music и soundcloud которая отрывает текст песни с сайта *GENIUS*
 - [TwitchExtension](https://github.com/BeNDYGo/TwitchExtension) - **расширение** добавляет 2 кнопки на *Twitch* которые открывают статистику открытого канала на *Twitch Tracker* и *Sullygnome*
 
 ### Downloads
