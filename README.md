@@ -3,6 +3,7 @@
 - Python
 - C++
 - JS + HTML + CSS
+- React
 - Go
 - Swift (UI + Kit)
 
