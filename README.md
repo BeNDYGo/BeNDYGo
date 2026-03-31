@@ -5,7 +5,7 @@
 - JS + HTML + CSS
 - React
 - Go
-- Swift (UI + Kit)
+- Swift + UI
 - Git + Docer + Деплой на VPS
 
 ### Websites
