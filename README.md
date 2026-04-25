@@ -5,21 +5,21 @@
 - JS + HTML + CSS
 - React
 - Go
-- Swift + UI
+- Swift + SwiftUI
 - Git + Docer + Деплой на VPS
 
 ### Websites
 - [Translate-Website](https://bendygo.github.io/Translate-Website/) - **сайт-переводчик**. Перевод предоставляется с сайта *wooordhunt* и *googletranslate* *(Приостановлено)*
 
 ### Extensions 
-- [Kinopoisk-To-Sspoisk](https://github.com/BeNDYGo/Kinopoisk-To-Sspoisk) - **расширение** для браузера которое позволяет смотреть фильмы на кипоиске бесплатно
+- [Kinopoisk-To-Sspoisk](https://github.com/BeNDYGo/Kinopoisk-To-Sspoisk) - **расширение** для браузера, которое позволяет смотреть фильмы на кипоиске бесплатно
+- [YouTube-Watcher](https://github.com/BeNDYGo/YouTube-Watcher) - **расширение** для браузера, которое добавляет временный плейлист на YouTube
 - [GENIUS](https://github.com/BeNDYGo/GENIUS) - **расширение** добавляет кнопку "G" на yandex.music и soundcloud которая отрывает текст песни с сайта *GENIUS*
 - [TwitchExtension](https://github.com/BeNDYGo/TwitchExtension) - **расширение** добавляет 2 кнопки на *Twitch* которые открывают статистику открытого канала на *Twitch Tracker* и *Sullygnome*
 
 ### Downloads
-
-
 - Kinopoisk-To-Sspoisk: ![Downloads](https://img.shields.io/github/downloads/BeNDYGo/Kinopoisk-To-Sspoisk/total.svg)
+- YouTube-Watcher: ![Downloads](https://img.shields.io/github/downloads/BeNDYGo/YouTube-Watcher/total.svg)
 - GENIUS: ![Downloads](https://img.shields.io/github/downloads/BeNDYGo/GENIUS/total.svg)
 
 
