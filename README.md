@@ -10,7 +10,7 @@
 - VPS
 
 ### Websites
-- [Translate-Website](https://bendygo.github.io/Translate-Website/) - **сайт-переводчик**. Перевод предоставляется с сайта *wooordhunt* и *googletranslate* *(Приостановлено)*
+- [Translate-Website](https://bendygo.github.io/Translate-Website/) - **сайт-переводчик**. Перевод предоставляется с сайта *wooordhunt* и *googletranslate* <!--*(Приостановлено)*-->
 
 ### Extensions 
 - [Kinopoisk-To-Sspoisk](https://github.com/BeNDYGo/Kinopoisk-To-Sspoisk) - **расширение** для браузера, которое позволяет смотреть фильмы на кипоиске бесплатно
