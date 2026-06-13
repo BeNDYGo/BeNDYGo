@@ -22,6 +22,7 @@
 - Kinopoisk-To-Sspoisk: ![Downloads](https://img.shields.io/github/downloads/BeNDYGo/Kinopoisk-To-Sspoisk/total.svg)
 - YouTube-Watcher: ![Downloads](https://img.shields.io/github/downloads/BeNDYGo/YouTube-Watcher/total.svg)
 - GENIUS: ![Downloads](https://img.shields.io/github/downloads/BeNDYGo/GENIUS/total.svg)
+- TwitchExtension: ![Downloads](https://img.shields.io/github/downloads/BeNDYGo/TwitchExtension/total.svg)
 
 
 <!--
