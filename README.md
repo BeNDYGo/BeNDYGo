@@ -23,6 +23,7 @@
 - YouTube-Watcher: ![Downloads](https://img.shields.io/github/downloads/BeNDYGo/YouTube-Watcher/total.svg)
 - GENIUS: ![Downloads](https://img.shields.io/github/downloads/BeNDYGo/GENIUS/total.svg)
 - TwitchExtension: ![Downloads](https://img.shields.io/github/downloads/BeNDYGo/TwitchExtension/total.svg)
+- Tab-Save: ![Downloads](https://img.shields.io/github/downloads/BeNDYGo/Tab-Save/total.svg)
 
 
 <!--
