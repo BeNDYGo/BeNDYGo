@@ -7,7 +7,7 @@
 - Go
 - Swift + SwiftUI
 - Git
-- VPS
+- Deploy
 
 ### Websites
 - [Translate-Website](https://bendygo.github.io/Translate-Website/) - **сайт-переводчик**. Перевод предоставляется с сайта *wooordhunt* и *googletranslate* <!--*(Приостановлено)*-->
