@@ -11,6 +11,7 @@
 
 ### Websites
 - [Translate-Website](https://bendygo.github.io/Translate-Website/) - **сайт-переводчик**. Перевод предоставляется с сайта *wooordhunt* и *googletranslate* <!--*(Приостановлено)*-->
+- [KTS-Lending](http://kinopoisk-to-sspoisk.online) - **сайт-лендинг** расширения Kinopoisk-To-Sspoisk
 
 ### Extensions 
 - [Kinopoisk-To-Sspoisk](https://github.com/BeNDYGo/Kinopoisk-To-Sspoisk) - **расширение** для браузера, которое позволяет смотреть фильмы на кипоиске бесплатно
