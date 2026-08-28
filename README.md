@@ -1,13 +1,14 @@
 ## Hi there 👋
 
+- ✨Swift (SwiftUI) ✨
 - Python
 - C++
+- Go
 - JS + HTML + CSS
 - React
-- Go
-- Swift + SwiftUI
+
 - Git
-- Deploy
+- can Deploy
 
 ### Websites
 - [Translate-Website](https://bendygo.github.io/Translate-Website/) - **сайт-переводчик**. Перевод предоставляется с сайта *wooordhunt* и *googletranslate* <!--*(Приостановлено)*-->
