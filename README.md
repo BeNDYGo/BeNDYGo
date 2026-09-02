@@ -1,15 +1,5 @@
 ## Hi there 👋
 
-- ✨Swift (SwiftUI) ✨
-- Python
-- C++
-- Go
-- JS + HTML + CSS
-- React
-
-- Git
-- can Deploy
-
 ### Websites
 - [Translate-Website](https://bendygo.github.io/Translate-Website/) - **сайт-переводчик**. Перевод предоставляется с сайта *wooordhunt* и *googletranslate* <!--*(Приостановлено)*-->
 - [KTS-Lending](http://kinopoisk-to-sspoisk.online) - **сайт-лендинг** расширения Kinopoisk-To-Sspoisk
