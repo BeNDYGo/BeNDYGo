@@ -1,22 +1,24 @@
 ## Hi there 👋
 
 ### Websites
-- [Translate-Website](https://bendygo.github.io/Translate-Website/) - **сайт-переводчик**. Перевод предоставляется с сайта *wooordhunt* и *googletranslate* <!--*(Приостановлено)*-->
-- [KTS-Lending](http://kinopoisk-to-sspoisk.online) - **сайт-лендинг** расширения Kinopoisk-To-Sspoisk
 
-### Extensions 
-- [Kinopoisk-To-Sspoisk](https://github.com/BeNDYGo/Kinopoisk-To-Sspoisk) - **расширение** для браузера, которое позволяет смотреть фильмы на кипоиске бесплатно
-- [YouTube-Watcher](https://github.com/BeNDYGo/YouTube-Watcher) - **расширение** для браузера, которое добавляет временный плейлист на YouTube
-- [GENIUS](https://github.com/BeNDYGo/GENIUS) - **расширение** добавляет кнопку "G" на yandex.music и soundcloud которая отрывает текст песни с сайта *GENIUS*
-- [TwitchExtension](https://github.com/BeNDYGo/TwitchExtension) - **расширение** добавляет 2 кнопки на *Twitch* которые открывают статистику открытого канала на *Twitch Tracker* и *Sullygnome*
+- [Translate-Website](https://bendygo.github.io/Translate-Website/) — a **translation website** powered by WooordHunt and Google Translate.
+- [KTS-Lending](http://kinopoisk-to-sspoisk.online) — a **landing page for the Kinopoisk-To-Sspoisk extension**.
+
+### Extensions
+
+- [Kinopoisk-To-Sspoisk](https://github.com/BeNDYGo/Kinopoisk-To-Sspoisk) — a browser extension that lets you watch movies on Kinopoisk for free.
+- [YouTube-Watcher](https://github.com/BeNDYGo/YouTube-Watcher) — a browser extension that adds a temporary playlist to YouTube.
+- [GENIUS](https://github.com/BeNDYGo/GENIUS) — adds a “G” button to Yandex Music and SoundCloud to open song lyrics on Genius.
+- [TwitchExtension](https://github.com/BeNDYGo/TwitchExtension) — adds buttons on Twitch to view channel statistics on TwitchTracker and SullyGnome.
 
 ### Downloads
+
 - Kinopoisk-To-Sspoisk: ![Downloads](https://img.shields.io/github/downloads/BeNDYGo/Kinopoisk-To-Sspoisk/total.svg)
 - YouTube-Watcher: ![Downloads](https://img.shields.io/github/downloads/BeNDYGo/YouTube-Watcher/total.svg)
 - GENIUS: ![Downloads](https://img.shields.io/github/downloads/BeNDYGo/GENIUS/total.svg)
 - TwitchExtension: ![Downloads](https://img.shields.io/github/downloads/BeNDYGo/TwitchExtension/total.svg)
 - Tab-Save: ![Downloads](https://img.shields.io/github/downloads/BeNDYGo/Tab-Save/total.svg)
-
 
 <!--
 **BeNDYGo/BeNDYGo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
