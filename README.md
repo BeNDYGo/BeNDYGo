@@ -24,10 +24,11 @@
 
 - Kinopoisk-To-Sspoisk: ![Downloads](https://img.shields.io/github/downloads/BeNDYGo/Kinopoisk-To-Sspoisk/total.svg)
 - YouTube-Watcher: ![Downloads](https://img.shields.io/github/downloads/BeNDYGo/YouTube-Watcher/total.svg)
+- Flagship: ![Downloads](https://img.shields.io/github/downloads/BeNDYGo/Flagship/total.svg)
 - GENIUS: ![Downloads](https://img.shields.io/github/downloads/BeNDYGo/GENIUS/total.svg)
 - TwitchExtension: ![Downloads](https://img.shields.io/github/downloads/BeNDYGo/TwitchExtension/total.svg)
 - Tab-Save: ![Downloads](https://img.shields.io/github/downloads/BeNDYGo/Tab-Save/total.svg)
-- Flagship: ![Downloads](https://img.shields.io/github/downloads/BeNDYGo/Flagship/total.svg)
+
 
 <!--
 **BeNDYGo/BeNDYGo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
