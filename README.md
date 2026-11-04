@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-### Websites
-
-- [Translate-Website](https://bendygo.github.io/Translate-Website/) — a **translation website** powered by WooordHunt and Google Translate. (`not working now`)
-- [KTS-Landing](http://kinopoisk-to-sspoisk.online) — a **landing page for the Kinopoisk-To-Sspoisk extension**.
-
 ### Extensions
 
 - [Kinopoisk-To-Sspoisk](https://github.com/BeNDYGo/Kinopoisk-To-Sspoisk) — a browser extension that lets you watch movies on Kinopoisk for free.
@@ -20,6 +15,11 @@
 
 - [Search](https://github.com/driceroland/Search) — A small, fast WebKit browser for macOS, by Office Commun.
 
+### Websites
+
+- [Translate-Website](https://bendygo.github.io/Translate-Website/) — a **translation website** powered by WooordHunt and Google Translate. (`not working now`)
+- [KTS-Landing](http://kinopoisk-to-sspoisk.online) — a **landing page for the Kinopoisk-To-Sspoisk extension**.
+  
 ### Downloads
 
 - Kinopoisk-To-Sspoisk: ![Downloads](https://img.shields.io/github/downloads/BeNDYGo/Kinopoisk-To-Sspoisk/total.svg)
